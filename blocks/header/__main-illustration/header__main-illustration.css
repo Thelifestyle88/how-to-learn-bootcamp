@@ -7,5 +7,5 @@
   background-image: url('../../../images/header-image.png');
   background-size: cover;
   background-repeat: no-repeat;
-  z-index: 2;
+  z-index: -1;
 }

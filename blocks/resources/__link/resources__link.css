@@ -2,9 +2,8 @@
     margin: 0;
     padding: 0;
     opacity: 1;
-    transition: ease 1s;
+    transition: opacity ease 1.5s;
   }
 .resources__link:hover {
     opacity: .5;
-    transition: ease 1s;
   }
